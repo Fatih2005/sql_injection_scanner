@@ -21,4 +21,4 @@ This is a simple Python-based SQL Injection testing tool that can detect potenti
 ## 🛠️ Usage
 
 ```bash
-python3 sql_injector.py -u "http://target.com/page.php?id=1"
+python3 sql_injector.py 
