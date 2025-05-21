@@ -21,4 +21,4 @@ This is a simple Python-based SQL Injection testing tool that can detect potenti
 ## 🛠️ Usage
 
 ```bash
-python3 sql_injector.py 
+python3 sql-injection-scanner.py
